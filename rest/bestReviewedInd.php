@@ -1,7 +1,7 @@
 <?php
    $servername = "localhost";
-   $username = "admin_mitwa";
-   $password = "mitwa1234";
+   $username = "admin_mitwa1";
+   $password = "*******";
    $dbname = "admin_userInformation";
    $companyName = $_GET['companyName'];
   
