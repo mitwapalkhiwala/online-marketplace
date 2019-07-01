@@ -15,19 +15,19 @@ Techies Town is a creative online educational website based in San Jose Califor
 
 The marketplace has various features including:
 
-Creation of a user via Google API.
+1. Creation of a user via Google API.
 
-Fancy UI
+2. Fancy UI
 
-Tracking of where the user has visited within the Marketplace.
+3. Tracking of where the user has visited within the Marketplace.
 
-User can add, edit and view the ratings and reviews of the products/services.
+4. User can add, edit and view the ratings and reviews of the products/services.
 
-Presentation of the 5 Most Visited services in each member company.
+5. Presentation of the 5 Most Visited services in each member company.
 
-Presentation of the 5 Most Visited services in the whole Marketplace.
+6. Presentation of the 5 Most Visited services in the whole Marketplace.
 
-Presentation of the Top 5 (best rated) services in each member company.
+7. Presentation of the Top 5 (best rated) services in each member company.
 
-Presentation of the Top 5 (best rated) services in whole Marketplace.
+8. Presentation of the Top 5 (best rated) services in whole Marketplace.
 
