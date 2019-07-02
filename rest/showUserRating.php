@@ -1,8 +1,8 @@
 <?php
    $servername = "localhost";
-   $username = "admin_mitwa";
-   $password = "mitwa1234";
-   $dbname = "admin_userInformation";
+   $username = "admin_mitwa123";
+   $password = "*******";
+   $dbname = "admin_userInformation1";
    $productName = $_GET['productName'];
    $email = $_GET['email'];
     // Create connection

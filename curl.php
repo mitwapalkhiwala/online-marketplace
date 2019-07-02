@@ -1,10 +1,10 @@
 <?php
             header("Access-Control-Allow-Origin: *");
             header("Content-Type: application/json; charset=UTF-8");
-  	    $servername = "localhost";
-            $username = "admin_mitwa";
-            $password = "mitwa1234";
-            $dbname = "admin_userInformation";
+  	        $servername = "localhost";
+            $username = "admin_mitwa123";
+            $password = "*******";
+            $dbname = "admin_userInformation1";
             // Create connection
             $conn = mysqli_connect($servername, $username, $password, $dbname);
             // Check connection

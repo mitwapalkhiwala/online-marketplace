@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "admin_mitwa";
-$password = "mitwa1234";
-$dbname = "admin_userInformation";
+$username = "admin_mitwa123";
+$password = "*******";
+$dbname = "admin_userInformation1";
 $data= json_decode(file_get_contents("php://input"));
 $firstName =  $data->firstName;
 $lastName = $data->lastName;
