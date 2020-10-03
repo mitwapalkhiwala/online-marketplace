@@ -1,5 +1,5 @@
 # online-marketplace
-PHP based online market place linked with 5 other websites for merging all the products at one place.
+PHP based online market place linked with 5 sister websites for merging all the products at one place.
 
 Techiesta is the marketplace which represents the products/services of 5 different companies namely Techiesta, The Learn Aid Inc, Bhagyadeep Tours and Travels, OneCall Pro and TechiesTown which are as follows:
 
